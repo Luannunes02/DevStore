@@ -4,7 +4,6 @@
 ![DevStore](https://user-images.githubusercontent.com/105875989/196573676-394f87be-8eb6-4806-818d-4708862a0804.gif)
 <br><strong>SITE EM DESENVOLVIMENTO </strong>
 <br><strong>Acesse o site e aproveite: https://devstore-amber.vercel.app </strong>
-
 <br>
 <br>
 <h2><strong> 📝 Descrição:</strong></h2>    

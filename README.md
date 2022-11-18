@@ -2,6 +2,7 @@
 <h2> DevStore, sua loja virtual</h2> 
 
 ![DevStore](https://user-images.githubusercontent.com/105875989/196573676-394f87be-8eb6-4806-818d-4708862a0804.gif)
+<br><strong>Acesse o site e aproveite: https://devstore-amber.vercel.app </strong>
 
 <br>
 <br>
